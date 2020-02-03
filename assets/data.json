@@ -1,0 +1,124 @@
+{
+
+    "about":{
+        "name":"Scott Sieger",
+        "title":"Sophomore Student at Boston College",
+        "email":"siegers@bc.edu",
+        "address":"Walsh Hall, 140 Commonwealth Ave",
+        "profileimg":"assets/profile1.png",
+        "header":"Media",
+        "resume":"assets/Resume - Scott Sieger.pdf",
+        "github":"https://github.com/scottsieger/bcwebcourse.github.io",
+        "linkedin":"https://www.linkedin.com/in/scott-sieger/",
+        "instagram":"https://www.instagram.com/scott_sieger/",
+        "desc":"Scott Sieger is a current sophomore student in the Morrissey College of Arts and Sciences at Boston College. He is pursuing a degree in <strong>Economics</strong> along with minors in <strong>Computer Science</strong> and <strong>Finance</strong>. He hopes to find a career in the financial technology field in the near future. Scott grew up on Long Island, New York where he lives with his parents and two siblings; Michael and Alyssa. Scott attended Wellington C. Mepham High School in North Bellmore, NY. He ran track and cross country all four years of high school and was named captain for both teams his senior year. Scott graduated in 2018 as an AP Scholar with honor."
+    },
+
+    "news": [
+    
+        {
+            "title":"Starting second semester of Sophomore year at Boston College",
+            "date":"Jan 13, 2020"
+        },
+
+        {
+            "title":"Applied for a semester abroad in Italy, Spain, and the Netherlands",
+            "date":"Jan 3, 2020"
+        },
+
+        {
+            "title":"Completed term exams for the fall semester of Sophomore year at Boston College",
+            "date":"December 19, 2019"
+        },
+            
+        {
+            "title":"Started work at the ITS Help Desk at Boston College",
+            "date":"September 21, 2019"
+        },
+
+        {
+            "title":"Traveled to Barcelona, Spain and Paris, France",
+            "date":"June 9, 2019 - June 21, 2019"
+        },
+            
+        {
+            "title":"Started summer employment as a lifeguard in Long Island, NY",
+            "date":"May 26, 2019"
+        },
+            
+        {
+            "title":"Started classes at Boston College",
+            "date":"August 22, 2018"
+        },
+            
+        {
+            "title":"Graduated from Wellington C. Mepham High School",
+            "date":"June 22, 2018"
+        }        
+    
+    ],
+
+    "projects": [
+        {
+            "id":"CongressionalSpending",
+            "title":"Congressional Spending: Who Spends the Most and Why?",
+            "authors":"Scott Sieger, Garrett Madden, Quinn Usry",
+            "source":"ECON1150 Stats Lab, Professon Bogdan Genchev",
+            "teaser":"assets/inexp90Graph.png",
+            "tags":["Group", "Research"],
+            "materials": [
+                {
+                    "label":"Data Description",
+                    "path":"assets/DataDescription.pdf"
+                },
+                {
+                    "label":"Expostion",
+                    "path":"assets/Esposition.pdf"
+                },
+                {
+                    "label":"Literature Review",
+                    "path":"assets/LiteratureReview.pdf"
+                }
+            ],
+            "description":"The Statistics of Congressional Campaigning: Who Spends the Most and Why? Our group poses the following question: how does tenure affect the amount of expenditures a candidate makes throughout his or her Congressional campaign? Given our own individual interest in economics and politics, attempting to understand how money affects elections excites our group and compels us to answer the aforementioned question. Variables like in which state the candidate runs, or for which district the candidate is up for election, or whether the candidate is a member of a certain political party are the ones that we immediately thought of when considering what has a strong effect on campaign expenditures; however, through analysis of the data set (VOTE2.DES) from Wooldridge Datasets, we will be able to find a precise and accurate answer. We have wondered the following question: is such exorbitant spending a factor of circumstance—like geography or incumbency? Or is there a further underlying factor—like personality—that promotes a candidate’s campaign expenditures? Our intent is to specifically analyze tenure. We aim to see if tenure promotes a candidate to spend a large or small amount."
+            
+        },
+
+        {
+            "id":"PsychologicalDisorders",
+            "title":"Psychological Disorders: What We Know",
+            "authors":"Scott Sieger",
+            "source":"Psychology as a Natural Science, Professor Gene Heyman, 2018",
+            "teaser":"assets/HuntDisease.jpg",
+            "tags":["Individual", "Research"],
+            "materials": [
+                {
+                    "label":"Paper",
+                    "path":"assets/PsychologyDisordersPaper.pdf"
+                },
+                {
+                    "label":"Bibliography",
+                    "path":"assets/Bibliography.pdf"
+                }
+                
+            ],
+            "description": "There are a multitude of psychological disorders affecting the brain identified by an even greater amount of symptoms and signs. Due to extensive experiments and biological as well as hereditary research, the scientific community has learned a lot about certain brain disorders, and how to treat them. The disorders discussed in the following paper are: Chronic Traumatic Encephalopathy (CTE), Narcolepsy, Tourettes, Schizophrenia and Huntington's Disease."
+        },
+
+        {
+            "id":"EconomicsProject",
+            "title":"National Income and Price Determination",
+            "authors":"Scott Sieger, Michael Madden, Kyle Bowers",
+            "source":"Macroeconomics, Professor Greg Zogby, 2018",
+            "teaser":"assets/EconModel3.png",
+            "tags":["Group", "Project"],
+            "materials": [
+                {
+                    "label":"Report",
+                    "path":"assets/EconomicsProject.pdf"
+                }                
+            ],
+            "description": "Real GDP and price levels are two economic indicators that hold a lot of weight when measuring a nation's output and overall well-being. In this project we look at how these indicators are measured, and how economic models show relationships and changes in the short run as well as the long run. We begin by looking at the Marginal Propensity to Consume and the Marginal Propensity to Spend. We then analyze the Consumption Function as well as the Aggregate Demand - Aggregate Supply curves in short run equillibrium to see how households and firms affect aggregate output and the price level. Economic policies and stabalizers are then discussed in an attempt to determine which course of action governments should take when facing a recession or slowing output. <em>Keynesian thought is employed throughout the project.</em>"
+        }
+    ]
+}
